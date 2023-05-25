@@ -15,7 +15,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-     String[] student= {"asdf", "fgxcvhb"};
+        System.out.println("This is changed");
         
     }
     
